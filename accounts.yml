@@ -1,0 +1,23 @@
+
+spring:
+  datasource:
+    url: jdbc:postgresql://samserver-sumankuma-92e0.f.aivencloud.com:13064/defaultdb?ssl=require&user=avnadmin&password=AVNS_T5Dsp2wF5RFHYZcsv1c
+    username: avnadmin
+    password: AVNS_T5Dsp2wF5RFHYZcsv1c
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  security:
+    user:
+      name: suman
+      password: legend
+
+server:
+  port: 8080
+
+build:
+  version: "1.0"
+  name: "development"
