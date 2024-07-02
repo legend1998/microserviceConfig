@@ -7,4 +7,4 @@ spring:
 
 build:
   version: "3.0"
-  name: "Production"
+  name: "(cipher)3f37fedc7dfcd4b4323264e888971d6289c98a6fca8d34c6da100eb53e11bb03"
