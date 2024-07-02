@@ -15,6 +15,12 @@ spring:
       name: suman
       password: legend
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
 server:
   port: 8080
 
