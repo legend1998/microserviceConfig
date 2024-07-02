@@ -7,4 +7,4 @@ spring:
 
 build:
   version: "3.0 beta version"
-  name: "(cipher)8cedb3301b53ebf6f52b2eaceffd5f6cf39445bea0886b51cc149cd199cd2f2d4a06b6aa01c410913d9fb86fa11973f3"
+  name: "{cipher}8cedb3301b53ebf6f52b2eaceffd5f6cf39445bea0886b51cc149cd199cd2f2d4a06b6aa01c410913d9fb86fa11973f3"
